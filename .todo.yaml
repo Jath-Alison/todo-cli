@@ -1,0 +1,20 @@
+tasks:
+- id: 1
+  title: test
+  priority: medium
+  tags: []
+  notes: ''
+  status: completed
+- id: 2
+  title: Verify click works
+  priority: high
+  tags:
+  - development
+  notes: ''
+  status: pending
+- id: 3
+  title: Commit current changes
+  priority: medium
+  tags: []
+  notes: ''
+  status: pending

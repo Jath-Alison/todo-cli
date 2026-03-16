@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "todo-cli"
+version = "0.1.0"
+description = "A modern, Git-style CLI for managing tasks."
+authors = [{ name = "JathAlison", email = "jath.alison@gmail.com" }]
+dependencies = [
+    "click",
+    "pydantic",
+    "PyYAML",
+    "rich"
+]
+
+[project.scripts]
+todo = "todo.main:app"
+
+[tool.setuptools]
+packages = ["todo"]

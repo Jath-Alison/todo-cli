@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: todo-cli
+Version: 0.1.0
+Summary: A modern, Git-style CLI for managing tasks.
+Author-email: JathAlison <jath.alison@gmail.com>
+Requires-Dist: click
+Requires-Dist: pydantic
+Requires-Dist: PyYAML
+Requires-Dist: rich
