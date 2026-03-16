@@ -5,6 +5,8 @@ tasks:
   tags: []
   notes: ''
   status: completed
+  created_at: 2026-03-16 12:30:36.989056
+  last_worked_at: 2026-03-16 12:30:36.989087
 - id: 2
   title: Verify click works
   priority: high
@@ -12,9 +14,50 @@ tasks:
   - development
   notes: ''
   status: pending
+  created_at: 2026-03-16 12:30:36.989105
+  last_worked_at: 2026-03-16 12:31:02.483406
 - id: 3
   title: Commit current changes
   priority: medium
   tags: []
   notes: ''
   status: pending
+  created_at: 2026-03-16 12:30:36.989108
+  last_worked_at: 2026-03-16 12:35:16.397003
+- id: 4
+  title: Test functionality
+  priority: medium
+  tags:
+  - testing
+  notes: Extra notes on testing or whatever.
+  status: pending
+  created_at: 2026-03-16 12:30:36.989111
+  last_worked_at: 2026-03-16 12:30:36.989111
+- id: 5
+  title: Test task
+  priority: high
+  tags:
+  - test
+  notes: ''
+  status: completed
+  created_at: 2026-03-16 12:30:36.989161
+  last_worked_at: 2026-03-16 12:31:19.822224
+  location: C:\Users\jatha\OneDrive - The University of Texas at Austin\Spring 2025\Old\Boredom\todo-cli
+- id: 6
+  title: Path test
+  priority: medium
+  tags: []
+  notes: ''
+  status: pending
+  created_at: 2026-03-16 14:14:34.562191
+  last_worked_at: 2026-03-16 14:17:04.209874
+  location: ./test/
+- id: 7
+  title: Path test
+  priority: medium
+  tags: []
+  notes: ''
+  status: pending
+  created_at: 2026-03-16 14:19:03.709875
+  last_worked_at: 2026-03-16 14:20:26.688725
+  location: test
